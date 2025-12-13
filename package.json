@@ -10,14 +10,15 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
+    "@google/genai": "^1.33.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.454.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-hook-form": "^7.60.0",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7",
-    "react-hook-form": "^7.60.0",
     "zod": "3.25.76"
   },
   "devDependencies": {
